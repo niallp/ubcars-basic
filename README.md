@@ -13,7 +13,7 @@ Edition provides complete coverage of all block diagrams found in the latest exa
 excludes Innovation, Science and Economic Development Canada’s Question Bank, which are now
 available online. We welcome you to the world of Amateur Radio and wish you the best of luck.
 
-# ACKNOWLEDGEMENTS
+## Acknowledgements
 This study guide resulted from the dedication of several amateur radio enthusiasts.
 
 * Original Editions: 
@@ -28,6 +28,7 @@ This study guide resulted from the dedication of several amateur radio enthusias
 * Seventh Edition: Daniel Hall (VA7DHH)
 * Eighth Edition: Kosta Arvanitis (VE7KCY), David Tse (VE7MDT), John Bell (VA7JBE)
 
+## License
 Copyright © 1991, 2003, 2012, 2014, 2020 UBC Amateur Radio Society.
 
 Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is available at http://gnu.org in the section entitled "GNU Free Documentation License".
